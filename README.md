@@ -23,6 +23,8 @@ $ pip2 install futures
 
 $ cd MBF
 
+$ git pull
+
 $ python2 MBF.py
 
 
